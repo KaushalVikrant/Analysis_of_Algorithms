@@ -2,4 +2,4 @@ Directed Acyclic Graph (DAG): It is a finite directed graph with no directed cyc
 
 Consistent sub-Directed Acyclic Graphs: It is defiend as a sub-DAG in which parent of each node is included (considering root doesn't have a parent).
 
-![alt tag](https://github.com/KaushalVikrant/Analysis_of_Algorithms/blob/master/Consistent-sub-DAGs/example.pdf)
+![alt tag](https://github.com/KaushalVikrant/Analysis_of_Algorithms/blob/master/Consistent-sub-DAGs/example_png.png)
